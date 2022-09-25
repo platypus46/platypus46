@@ -4,7 +4,7 @@
 __solved.ac rank__  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=svolts)](https://solved.ac/svolts/)
 
-__studying..👨‍💻__  
+__Studying..👨‍💻__  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -15,7 +15,7 @@ __studying..👨‍💻__
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
-__other areas of interest🧐__  
+__Other Areas of Interest🧐__  
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB.svg?&style=for-the-badge&logo=Xamarin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?&style=for-the-badge&logo=Ethereum&logoColor=white)
