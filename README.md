@@ -4,7 +4,7 @@
 __solved.ac rank__  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=svolts)](https://solved.ac/svolts/)
 
-__Studying..👨‍💻__  
+__studying..👨‍💻__  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
