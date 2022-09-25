@@ -1,5 +1,7 @@
 ### KIM BO SEOP🌈
 ![Boseop Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=platypus46&show_icons=true&theme=radical)
+
+__solved.ac rank__  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=svolts)](https://solved.ac/svolts/)
 
 __Studying..👨‍💻__  
