@@ -19,5 +19,3 @@ __Other Areas of Interest🧐__
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB.svg?&style=for-the-badge&logo=Xamarin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?&style=for-the-badge&logo=Ethereum&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platypus46)](https://github.com/platypus46/github-readme-stats)
