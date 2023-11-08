@@ -1,5 +1,11 @@
-**I am interested in AR and AI**
-
+### Hi there👋
+<details>
+  <summary>💡 Enthusiast</summary>  
+  
+  ![AR](https://img.shields.io/badge/AugmentedReality-enthusiast-blue.svg?&style=for-the-badge&logo=augmented-reality&logoColor=white)
+  ![AI](https://img.shields.io/badge/ArtificialIntelligence-enthusiast-blue.svg?&style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+</details>
+  
 <details>
   <summary>💻 Programming Languages</summary>
 
