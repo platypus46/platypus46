@@ -22,3 +22,11 @@
   
 
 </details>
+
+<details>
+  <summary>🧶 BOJ(Algorithm Study) </summary>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=svolts)](https://solved.ac/svolts/)
+
+  
+
+</details>
