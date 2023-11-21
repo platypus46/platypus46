@@ -25,7 +25,8 @@
 
 <details>
   <summary>🧶 BOJ(Algorithm Study) </summary>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=svolts)](https://solved.ac/svolts)
+  [![Solved.ac 프로필](https://mazassumnida.wtf/api/generate_badge?boj=svolts)](https://solved.ac/svolts)
+
 
   
 
